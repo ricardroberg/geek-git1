@@ -3,7 +3,7 @@
 
 Um ou dois parágrafos sobre o seu projeto e o que ele faz.
 
-![](pag.png)
+![](pag.PNG)
 
 ## Instalação
 
@@ -45,6 +45,7 @@ Se possivel fornceças as informações para diferentes plataformas, exemplo Win
 ## Meta
 
 Seu nome - [@SeuTwitter](https://twitter.com/SeuTwitter) - seuemail@gmail.com
+
 Distribuido sobre a licença. Veja `LICENÇA` para mais informações.
 
 [https://github.com/seuusuario/seuprojeto](https://github.com)
